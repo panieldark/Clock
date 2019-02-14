@@ -1,6 +1,7 @@
 # Clock
 Digital Clock visualizer using the p5.js library
 
+*clock-image.png is attached for a visual example of what the program will do.
 
 ## Getting Started 
 1. Download Files (make sure they are saved to same folder)
